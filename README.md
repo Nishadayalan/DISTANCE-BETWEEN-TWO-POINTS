@@ -15,7 +15,7 @@ give print statement.
 execute the program.
 ### PROGRAM:
 ```
-  # Program to find the distance between two points.
+# Program to find the distance between two points.
 # Developed by:D.Nisha 
 # RegisterNumber:23012927
 x1=10
