@@ -26,7 +26,7 @@ distance=((x2-x1)**2+(y2-y1)**2)**0.5
 print(f"{distance:.2f}")
 ```
 ## OUTPUT:
-![Alt text](distance.png)
+![Alt text](distbw.png)
 
 ### RESULT:
 the distance between two points are calculated and executed successfully.
